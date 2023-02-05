@@ -1,1 +1,1 @@
-# development-stage-localization-workflow-project-with-lokale-branching
+# development-stage-localization-workflow-project-with-lokalise-branching
