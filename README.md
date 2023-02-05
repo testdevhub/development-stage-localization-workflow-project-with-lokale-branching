@@ -1,1 +1,1 @@
-# https-github.com-testdevhub-lokalise-development-stage-localization-workflow-project-with-lokal
+# development-stage-localization-workflow-project-with-lokale-branching
